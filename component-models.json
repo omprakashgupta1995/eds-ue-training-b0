@@ -189,9 +189,10 @@
     "id": "quote",
     "fields": [
       {
-        "component": "string",
+        "component": "text",
         "name": "classes",
-        "label": "Enter Your Style"
+        "label": "Enter Your Style",
+        "valueType": "string"
       },
       {
         "component": "richtext",
