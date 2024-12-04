@@ -190,9 +190,9 @@
     "fields": [
       {
         "component": "richtext",
-        "name": "text1",
+        "name": "text",
         "value": "",
-        "label": "Text",
+        "label": "Enter Your Quote",
         "valueType": "string"
       }
     ]
