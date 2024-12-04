@@ -194,6 +194,12 @@
         "value": "",
         "label": "Enter Your Quote",
         "valueType": "string"
+      },
+      {
+        "component": "reference",
+        "name": "img",
+        "value": "",
+        "label": "Select Your Image"
       }
     ]
   }
