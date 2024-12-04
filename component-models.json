@@ -184,9 +184,5 @@
         "valueType": "string"
       }
     ]
-  },
-  {
-    "id": "quote",
-    "fields": []
   }
 ]
