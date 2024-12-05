@@ -208,5 +208,29 @@
         "label": "Select Your Image"
       }
     ]
+  },
+  {
+    "id": "carousel-item",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Enter Your Content",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "classes",
+        "label": "Enter Your Style",
+        "valueType": "string"
+      },
+      {
+        "component": "reference",
+        "name": "img",
+        "value": "",
+        "label": "Select Your Image"
+      }
+    ]
   }
 ]
