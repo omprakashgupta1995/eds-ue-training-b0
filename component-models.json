@@ -220,12 +220,6 @@
         "valueType": "string"
       },
       {
-        "component": "text",
-        "name": "classes",
-        "label": "Enter Your Style",
-        "valueType": "string"
-      },
-      {
         "component": "reference",
         "name": "img",
         "value": "",
