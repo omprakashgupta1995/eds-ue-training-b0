@@ -138,6 +138,11 @@
             ]
           }
         ]
+      },
+      {
+        "component": "reference",
+        "name": "Background Image",
+        "label": "Select Your Background Image"
       }
     ]
   },
