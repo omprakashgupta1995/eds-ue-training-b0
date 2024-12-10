@@ -104,8 +104,38 @@
         "label": "Style",
         "options": [
           {
-            "name": "Highlight",
-            "value": "highlight"
+            "name": "Background Style",
+            "children": [
+              {
+                "name": "White",
+                "value": "bg-white"
+              },
+              {
+                "name": "Grey",
+                "value": "bg-grey"
+              },
+              {
+                "name": "Dark",
+                "value": "bg-dark"
+              }
+            ]
+          },
+          {
+            "name": "Text Style",
+            "children": [
+              {
+                "name": "Left",
+                "value": "txt-left"
+              },
+              {
+                "name": "Right",
+                "value": "txt-right"
+              },
+              {
+                "name": "Top",
+                "value": "txt-top"
+              }
+            ]
           }
         ]
       }
