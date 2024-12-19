@@ -1,6 +1,7 @@
 {
   "mappings": [
     "/content/eds-training-b0/:/",
+    "/content/eds-training-b0/api/testimonial:/api/testimonial.json",
     "/content/eds-training-b0/configuration:/.helix/config.json",
     "/content/eds-training-b0/metadata:/metadata.json"
   ]
