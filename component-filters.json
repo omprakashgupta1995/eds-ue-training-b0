@@ -15,9 +15,13 @@
       "columns",
       "fragment",
       "quote",
-      "hero-carousel-item",
+      "hero-carousel",
       "carousel"
     ]
+  },
+  {
+    "id": "hero-carousel",
+    "components": ["hero-carousel-item"]
   },
   {
     "id": "cards",
